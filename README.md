@@ -1,5 +1,2 @@
 network
 =======
-
-requirements
-=======
